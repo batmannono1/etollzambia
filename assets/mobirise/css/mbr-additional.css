@@ -1794,28 +1794,32 @@ body {
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-r3Z3orv6HV {
+.cid-r3ZiiMU2Es {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-r3Z3orv6HV h3 {
+.cid-r3ZiiMU2Es H2 {
+  color: #000000;
+}
+.cid-r3ZiiMU2Es .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-r3ZhAALCsH {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r3ZhAALCsH .mbr-text {
+  color: #767676;
+}
+.cid-r3ZhAALCsH h4 {
   text-align: center;
 }
-.cid-r3Z3orv6HV .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-r3ZhAALCsH p {
+  text-align: center;
 }
-.cid-r3Z3orv6HV .mbr-content-text {
-  color: #767676;
-}
-.cid-r3Z3orv6HV .panel-item {
-  background: #ffffff;
-}
-.cid-r3Z3orv6HV .card {
-  word-wrap: break-word;
-}
-.cid-r3Z3orv6HV .mbr-iconfont {
-  font-size: 80px;
+.cid-r3ZhAALCsH .card-img span {
+  font-size: 96px;
   color: #149dcc;
 }
